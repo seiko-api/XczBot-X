@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "XczBot", 
+	"zeksKey": "Your Key",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 30,
+	"ownerList": ["6285861870154@s.whatsapp.net", "6285861870154@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://telegra.ph/file/42861320f85a25fbda124.jpg",
+	"pack": "XczBot",
+	"author": "By Rafasurya"
+}
